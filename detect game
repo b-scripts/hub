@@ -79,7 +79,7 @@ elseif placeId == 2768379856 then
     loadstring(game:HttpGet('https://pastebin.com/raw/ve3KXuJ8'))() 
 
 elseif placeId == 76734884206615 then
-	shutdown:()
+	shutdown()
 else
     loadstring(game:HttpGet('https://raw.githubusercontent.com/b-scripts/hub/refs/heads/main/undetected%20game'))()
 end
