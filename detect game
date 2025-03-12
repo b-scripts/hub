@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/b-scripts/our-system/refs/heads/main/fps%20system"))()
 local placeId = game.PlaceId
 
 if placeId == 17625359962 then
